@@ -1,6 +1,6 @@
 # Linux-Fake-Webcam
 Emulates webcam
-**Please forgive how much of a hackjob this is. I am not an experienced programmer, and I have almost no experience in machine learning/tensorflow. This was made as a test to see how effective it would be for live-streams
+**Please forgive how much of a hackjob this is. I am not an experienced programmer, and I have almost no experience in machine learning/tensorflow. This was made as a test to see how effective it would be for live-streams**
 
 # Credits
 ## Ben Elder
